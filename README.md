@@ -1,0 +1,1 @@
+There are tw files in this repository. Both of these files are R scripts. Create a folder for each file and place it in the folder. The R scripts are well annotated. Then run each script. The results will be stored in  a folder within that folder. 
